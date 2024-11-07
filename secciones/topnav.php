@@ -3,7 +3,7 @@
                     <span class="logo_img">
                         </svg>
                     </span>
-                    HONDUCAFE GROUP
+                    COHONDUCAFE GROUP SINCE 1954
                 </a>
 <nav class="header_nav text--medium text--md collapse" id="headerMenu">
                    <!--  <ul class="header_nav-list">

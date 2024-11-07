@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Home | HONDUCAFE GROUP</title>
+    <title>Home | COHONDUCAFE GROUP</title>
     <?php include "./secciones/links.php" ?>
 </head>
 
@@ -3033,7 +3033,7 @@
             <div class="container">
                 <div class="hero_main">
                     <div class="section_header">
-                        <span class="section_header-subtitle" data-aos="fade-down">HONDUCAFE Group</span>
+                        <span class="section_header-subtitle" data-aos="fade-down">COHONDUCAFE Group</span>
                         <h1 class="section_header-title" style="font-weight: bolder;" data-aos="fade-up">About us</h1>
                         <p class="section_header-text text--medium" data-aos="fade-right" id="visibleText">
                             We are a Honduran family business with more than 70 years of experience in the coffee
@@ -3071,26 +3071,26 @@
                     <div class="swiper-wrapper">
                     <div class="swiper-slide">
                             <picture>
+                                <source data-srcset="img/swipeaboutus/swipe1.png" srcset="img/swipeaboutus/swipe1.png" />
+                                <img  style="width: 70%;" data-src="img/swipeaboutus/swipe1.png" src="img/swipeaboutus/swipe1.png" alt="media" />
+                            </picture>
+                        </div>
+                        <div class="swiper-slide">
+                            <picture>
+                                <source data-srcset="img/swipeaboutus/swipe2.png" srcset="img/swipeaboutus/swipe2.png" />
+                                <img  style="width: 70%;" data-src="img/swipeaboutus/swipe2.png" src="img/swipeaboutus/swipe2.png" alt="media" />
+                            </picture>
+                        </div>
+                        <div class="swiper-slide">
+                            <picture>
+                                <source data-srcset="img/swipeaboutus/swipe3.png" srcset="img/swipeaboutus/swipe3.png" />
+                                <img  style="width: 70%;"  data-src="img/swipeaboutus/swipe3.png" src="img/swipeaboutus/swipe3.png" alt="media" />
+                            </picture>
+                        </div>
+                        <div class="swiper-slide">
+                            <picture>
                                 <source data-srcset="img/swipeaboutus/swipe4.jpg" srcset="img/swipeaboutus/swipe4.jpg" />
                                 <img  style="width: 70%;" data-src="img/swipeaboutus/swipe4.jpg" src="img/swipeaboutus/swipe4.jpg" alt="media" />
-                            </picture>
-                        </div>
-                        <div class="swiper-slide">
-                            <picture>
-                                <source data-srcset="img/swipeaboutus/swipe4.png" srcset="img/swipeaboutus/swipe4.png" />
-                                <img  style="width: 70%;" data-src="img/swipeaboutus/swipe4.png" src="img/swipeaboutus/swipe4.png" alt="media" />
-                            </picture>
-                        </div>
-                        <div class="swiper-slide">
-                            <picture>
-                                <source data-srcset="img/swipeaboutus/swipe8.jpg" srcset="img/swipeaboutus/swipe8.jpg" />
-                                <img  style="width: 70%;"  data-src="img/swipeaboutus/swipe8.jpg" src="img/swipeaboutus/swipe8.jpg" alt="media" />
-                            </picture>
-                        </div>
-                        <div class="swiper-slide">
-                            <picture>
-                                <source data-srcset="img/swipeaboutus/swipe9.png" srcset="img/swipeaboutus/swipe9.png" />
-                                <img  style="width: 70%;" data-src="img/swipeaboutus/swipe9.png" src="img/swipeaboutus/swipe9.png" alt="media" />
                             </picture>
                         </div>
                     </div>
@@ -3594,9 +3594,9 @@
                         <a class="link" href="#">
                             <div class="media">
                                 <picture>
-                                    <source data-srcset="img/marcas/foto_fundacion.jpg" srcset="img/marcas/foto_fundacion.jpg"
+                                    <source data-srcset="img/marcas/fundacion1.jpg" srcset="img/marcas/fundacion1.jpg"
                                         type="image/webp" />
-                                    <img class="lazy" data-src="img/marcas/foto_fundacion.jpg" src="img/marcas/foto_fundacion.jpg"
+                                    <img class="lazy" data-src="img/marcas/fundacion1.jpg" src="img/marcas/fundacion1.jpg"
                                         alt="Three Chocolates" />
                                 </picture>
                             </div>
@@ -3640,6 +3640,27 @@
                             </div> -->
                         </a>
                     </div>
+
+                    <div class="presentation_slider-slide swiper-slide">
+                        <a class="link" href="#">
+                            <div class="media">
+                                <picture>
+                                    <source data-srcset="img/marcas/minahonda.jpg" srcset="img/marcas/minahonda.jpg"
+                                        type="image/webp" />
+                                    <img class="lazy" data-src="img/marcas/minahonda.jpgg" src="img/marcas/minahonda.jpg"
+                                        alt="Three Chocolates" />
+                                </picture>
+                            </div>
+                            <!-- <div class="main">
+                                
+                                <span class="main_title h5">Fundación COHONDUCAFÉ</span>
+                                <p class="main_ingredients text--md text--medium">
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias, itaque?
+                                </p>
+                            </div> -->
+                        </a>
+                    </div>
+
                 </div>
             </div>
         </section>
@@ -3652,7 +3673,7 @@
         <section class="booking section">
             <div class="container">
                 <div class="section_header centered">
-                    <span class="section_header-subtitle" data-aos="fade-up">HONDUCAFE GROUP</span>
+                    <span class="section_header-subtitle" data-aos="fade-up">COHONDUCAFE GROUP</span>
                     <h2 class="section_header-title" style="font-weight: bolder;" data-aos="fade-up"
                         data-aos-delay="50">Exportadora COHONDUCAFE</h2>
                     <p class="section_header-text" data-aos="fade-up" data-aos-delay="100" style="text-align:justify;"
@@ -3963,7 +3984,7 @@
                 <div class="about_main">
                     <div class="about_main-wrapper d-xl-flex align-items-center">
                         <div class="section_header">
-                            <span class="section_header-subtitle" data-aos="fade-down">HONDUCAFE GROUP</span>
+                            <span class="section_header-subtitle" data-aos="fade-down">COHONDUCAFE GROUP</span>
                             <h2 class="section_header-title" style="font-weight: bolder;" data-aos="fade-up">COHONDUCAFE
                                 Foundation</h2>
                             <p class="" style="text-align: justify;" data-aos="fade-left" id="visibleText2">
@@ -4066,6 +4087,7 @@
                                 <!-- <a class="main_link text--sm text--bold" href="post.html">Read more</a> -->
                             </div>
                         </div>
+                        
                         <div class="recent_posts-item" data-aos="fade-left">
                             <div class="media">
                                 <picture>
@@ -4110,6 +4132,27 @@
                                     territory</p>
                                 <!--                                 <a class="main_link text--sm text--bold" href="post.index">Read more</a> -->
                             </div>
+                        </div><div class="recent_posts-item" data-aos="fade-left">
+                            <div class="media">
+                                <picture>
+                                    <source data-srcset="img/seccionProjects/ecolluvias.png"
+                                        srcset="img/seccionProjects/ecolluvias.png" type="image/webp" />
+                                    <img class="lazy" data-src="img/seccionProjects/ecolluvias.png"
+                                        src="img/seccionProjects/ecolluvias.png" alt="Top 5 Desserts Worth Trying" />
+                                </picture>
+                                <!-- <span class="media_date h6">Fecha de inicio</span> -->
+                            </div>
+                            <div class="main">
+                                <p class="main_title h4" href="post.html" rel="noopener noreferrer">
+                                    Eco Lluvias
+                                </p>
+                                <p class="main_text text--md">
+                                Project funded by Nestlé Denmark: The objective of this project is to improve the 
+                                quality of life for coffee producers by installing a system to capture and use rainwater 
+                                for various applications.</p>
+                                </p>
+                                <!--                                 <a class="main_link text--sm text--bold" href="post.index">Read more</a> -->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -4125,6 +4168,28 @@
                     </div>
 
                     <div class="recent_posts">
+                        <div class="recent_posts-item" data-aos="fade-left">
+                            <div class="media">
+                                <picture>
+                                    <source data-srcset="img/seccionProjects/project10.png"
+                                        srcset="img/seccionProjects/project10.png" type="image/webp" />
+                                    <img class="lazy" data-src="img/seccionProjects/project10.png"
+                                        src="img/seccionProjects/project10.png" alt="Secrets of Delicious Coffee" />
+                                </picture>
+                                <!-- <span class="media_date h6">Fecha de inicio</span> -->
+                            </div>
+                            <div class="main">
+                                <p class="main_title h4" href="post.html" rel="noopener noreferrer">
+                                    Apicultura sostenible
+                                </p>
+                                <p class="main_text text--md">
+                                Project funded by Nestlé Denmark: The Sustainable Beekeeping Project was conceived with the 
+                                aim of addressing the current global situation of bees. It is known that Apis mellifera 
+                                is under threat due to the extensive use of harmful products in agriculture.
+                                </p>
+                                <!-- <a class="main_link text--sm text--bold" href="post.html">Read more</a> -->
+                            </div>
+                        </div>
                         <div class="recent_posts-item" data-aos="fade-left">
                             <div class="media">
                                 <picture>
@@ -4284,7 +4349,7 @@
                         </picture>
                     </div>
                     <div class="section_header">
-                        <span class="section_header-subtitle" data-aos="fade-down">HONDUCAFE GROUP</span>
+                        <span class="section_header-subtitle" data-aos="fade-down">COHONDUCAFE GROUP</span>
                         <h2 class="section_header-title  " data-aos="fade-up" style="font-weight: bold;">Honduras <p>
                             </p><span class="linebreak">Specialty Coffee</span>
                         </h2>
@@ -4355,7 +4420,7 @@
                         </svg>
                     </span>
                     <span class="text" data-aos="face-down">
-                        <span class="section_header-subtitle " data-aos="fade-down">HONDUCAFE GROUP</span>
+                        <span class="section_header-subtitle " data-aos="fade-down">COHONDUCAFE GROUP</span>
                         <span class="text  " style="font-weight: bolder;" data-aos="fade-down">Tostadora Hondureña de
                             Café</span>
                     </span>
